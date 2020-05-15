@@ -1,3 +1,4 @@
+print("One Line Added")
 inputstr=input("Enter the string to check Palindrome : ")
 s=inputstr[::-1]
 
